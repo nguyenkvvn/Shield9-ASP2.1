@@ -21,7 +21,8 @@ Steal that ASP look with these recommended accessories.
 
 ## Instructions
 1. Print the frame with the top of the model face down. (Aka, bottom of the grip pointed up) Reccomended tempeatures are: 45mm/s @ 230c; eSun PLA+ is strongly reccomended.
-2. Remove all supports from the model.
+2. (Optional) Print the transparent panel, then salt anneal it to bond all of the layers into a translucent mold. Sand and file until clear.
+3. Remove all supports from the model.
 
 ## Changelog
 * Private Beta v0.1
